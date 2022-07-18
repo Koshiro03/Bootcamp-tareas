@@ -1,0 +1,50 @@
+body { background-color:#273238;}
+
+#productos{
+font-family: Impact, Charcoal, sans-serif;
+background-color: white;
+color: #698593;
+font-size: 70px;
+text-align: center;
+
+}
+
+h2{
+   font-family: Arial, Gadget, sans-serif ;
+   font-style : italic;
+   text-transform: uppercase;
+   font-weight: 900;
+   font-size: 25px;
+
+}
+
+p {
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+color: white;
+font-size: medium;
+text-align: justify;
+
+}
+
+img{
+margin-left: 50px;
+width: 480px;
+}
+
+
+/* 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
+Impact, Charcoal, sans-serif
+Arial, Gadget, sans-serif */
+
+/* color de fondo #273238 
+   color de aspiradoras #E6CBBF
+   color de celulares #A1C1CB
+   color de consolas #BDBFC2
+   color de home-theatre #8D94A1
+   color de televisores #B2B2AA
+   color de productos #698593
+   
+
+
+
+*/
